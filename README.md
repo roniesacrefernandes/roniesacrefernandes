@@ -3,6 +3,16 @@
 Sou desenvolvedor apaixonado por tecnologia, com foco em Python, IA e desenvolvimento web e Dados.  
 Atualmente estou aprendendo sobre LangChain, OpenAI e aplicações com IA generativa!
 
+## 📈 Áreas de interesse
+- 🌐 Desenvolvimento Web
+- 📊 Análise de Dados
+- 🧠 Inteligência Artificial aplicada
+- 📊 ETL e visualização de dados
+- 💰 Mercado Financeiro
+- 🕹️ Automação de processos (RPA)
+- 📎 Integração entre sistemas e scraping
+
+
 ## 🚀 Tecnologias que uso
 ### 👨‍💻 Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,6 +55,8 @@ Atualmente estou aprendendo sobre LangChain, OpenAI e aplicações com IA genera
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![TinyDB](https://img.shields.io/badge/TinyDB-47A447?style=for-the-badge&logo=&logoColor=white)
 
 ### 📈 Outros Interesses
 ![Mercado Financeiro](https://img.shields.io/badge/Mercado%20Financeiro-2E7D32?style=for-the-badge&logo=chartdotjs&logoColor=white)

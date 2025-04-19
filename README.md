@@ -63,7 +63,7 @@ Atualmente estou aprendendo sobre LangChain, OpenAI e aplicações com IA genera
 
 ## 💼 Projetos em destaque
 
-- 🎯 [Curriculo_AI](https://github.com/roniesacrefernandes/cuirriculo_cv): Um app para análise de currículos
+- 🎯 [CV_Analyser](https://github.com/roniesacrefernandes/CV_Analyser): Um app para análise de currículos
 
 
 ## 📫 Como me encontrar
